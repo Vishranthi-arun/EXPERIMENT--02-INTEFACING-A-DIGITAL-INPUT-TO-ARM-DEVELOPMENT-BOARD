@@ -158,7 +158,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output  :
  ## LED ON :
- ![new](https://user-images.githubusercontent.com/93427278/228022801-dbab2bee-b507-4fb8-9535-a0934c9f9bab.jpeg)
+ ![new](https://user-images.githubusercontent.com/93427278/228023157-996d5570-7bae-48e8-8f9c-65d993010b90.jpeg)
+
 
 ## LED OFF :
  ![WhatsApp Image 2023-03-27 at 11 04 34 PM](https://user-images.githubusercontent.com/93427278/228021933-4bdc1dfa-ac96-45fc-b3d7-a1ff325bcc91.jpeg)
