@@ -57,7 +57,7 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
 Developed by : Vishranthi A
 Reg No.: 212221230124
 ```
-```Python
+```
 #include "main.h"
 #include"stdio.h"
 #include"stdbool.h"
@@ -157,9 +157,11 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 
 ## Output  :
- 
- 
- 
+ ## LED ON :
+ ![WhatsApp Image 2023-03-27 at 11 04 36 PM](https://user-images.githubusercontent.com/93427278/228021914-911f88c1-a8c4-433f-8e64-e430531a3b96.jpeg)
+## LED OFF :
+ ![WhatsApp Image 2023-03-27 at 11 04 34 PM](https://user-images.githubusercontent.com/93427278/228021933-4bdc1dfa-ac96-45fc-b3d7-a1ff325bcc91.jpeg)
+
  
 ## Result :
 Interfacing a digital Input (Pushbutton ) with ARM microcontroller based IOT development is executed and the results are verified.
